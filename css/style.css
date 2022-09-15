@@ -1,0 +1,76 @@
+img {
+width:70%; 
+height:70%;
+}
+
+.phkstyle {
+    max-height: 40%;
+    max-width: 40% ;
+}
+.carl_bc {
+    background-color:aqua;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+.indexstyle
+{
+    font-family:  Helvetica ;
+    border-color: red ;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px ;
+    width: 80px ;
+    background-color:white;
+
+}
+
+.mestyle
+{
+    font-family:  Helvetica ;
+    border-color: red ;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px ;
+    width: 95px ;
+    background-color: white;
+}
+
+.intereststyle
+{
+    font-family:  Helvetica ;
+    border-color: red ;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px ;
+    width: 185px ;
+    background-color: white;
+}
+
+.coursesstyle
+{
+    font-family:  Helvetica ;
+    border-color: red ;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px ;
+    width: 80px ;
+    background-color: white;
+}
+
+.documentationstyle
+{
+    font-family:  Helvetica ;
+    border-color: red ;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px ;
+    width: 180px ;
+    background-color: white;
+}
