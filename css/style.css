@@ -2,7 +2,7 @@ img {
 width:70%; 
 height:70%;
 }
-
+/* Här har jag gjort min style för classen PHK vilket är en bild*/
 .phkstyle {
     max-height: 40%;
     max-width: 40% ;
@@ -14,7 +14,7 @@ height:70%;
 h1 {
     color: black;
 }
-
+/* Här har jag gjort en style för alla mina H2 element */
 h2 {
     color: black;
 }
@@ -41,7 +41,7 @@ h2 {
     width: 95px ;
     background-color: white;
 }
-
+/* Här har jag gjort stylen för min Fritidsintressen länk*/
 .intereststyle
 {
     font-family:  Helvetica ;
